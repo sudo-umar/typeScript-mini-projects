@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "buil",
+    "target": "ES2017",
+    "ignoreDeprecations": "5.0",
+    "declaration": true,
+    "module": "CommonJS"
+  },
+  "include": ["src"]
+}
